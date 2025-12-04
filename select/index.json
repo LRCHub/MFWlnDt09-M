@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "百年",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-04T18:05:39.149650Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "百年",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_百年_理芽.txt"
+    }
+  ]
+}
